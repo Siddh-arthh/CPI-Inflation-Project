@@ -1,5 +1,6 @@
 # CPI-Inflation-Project
 Analyzed India’s CPI data using Excel to track inflation trends across Food, Fuel, Housing &amp; more. Cleaned, visualized, and extracted insights to understand price movement across sectors—helping businesses and policymakers make informed decisions.
+![508479-PIHX4Q-410](https://github.com/user-attachments/assets/6a0f422a-d022-467a-a0ef-9ac0ebd82c4e)
 
 Problem Statement:
 You are working with the National Statistical Office, which is equipped to release inflation numbers in India. As an analyst, you are provided with CPI data and are expected to find out insights from the data. Your senior wants you to find key trends and deep dive into the data to answer the following questions:
